@@ -1,3 +1,5 @@
+some more text
+
 This is a test file that I have made. Here is some added text.
 Here is a new line.
 Tis the ultimate answer to life, the universe and everything; 42.
