@@ -6,3 +6,4 @@ Tis the ultimate answer to life, the universe and everything; 42.
 
 Testaaa 
 Another line
+Added a line for feature2
